@@ -268,10 +268,10 @@ function App() {
                 loop 
                 muted 
                 playsInline
-                poster={`${CLOUDINARY_RES}/video/upload/so_133/c_pad,h_400,w_600,b_rgb:d4af37/f_jpg/q_auto/training/Uploading_Images_Videos_in_Laravel_with_Cloudinary-.jpg`}
+                poster={`${CLOUDINARY_RES}/video/upload/so_133/c_pad,h_400,w_600,b_rgb:4a5568/f_jpg/q_auto/training/Uploading_Images_Videos_in_Laravel_with_Cloudinary-.jpg`}
               >
                 <source 
-                  src={`${CLOUDINARY_RES}/video/upload/so_133,eo_147/c_pad,h_400,w_600,b_rgb:d4af37/f_auto/q_auto/training/Uploading_Images_Videos_in_Laravel_with_Cloudinary-.mp4`} 
+                  src={`${CLOUDINARY_RES}/video/upload/so_133,eo_147/c_pad,h_400,w_600,b_rgb:4a5568/f_auto/q_auto/training/Uploading_Images_Videos_in_Laravel_with_Cloudinary-.mp4`} 
                   type="video/mp4" 
                 />
               </video>
@@ -393,7 +393,7 @@ function App() {
                 </div>
               </div>
               <div className="social-links">
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer">GitHub</a>
+                <a href="https://github.com/cloudinary-devs/digital_portfolio" target="_blank" rel="noopener noreferrer">GitHub</a>
                 <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                 <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">Twitter</a>
                 <a href="https://dribbble.com" target="_blank" rel="noopener noreferrer">Dribbble</a>
